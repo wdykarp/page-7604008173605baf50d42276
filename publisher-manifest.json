@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fe35c48d5d9617cc3088bd35",
+  "owner": "wdykarp",
+  "repo": "page-7604008173605baf50d42276",
+  "title": "春秋加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7604008173605baf50d42276",
+      "a": "春秋加速器",
+      "b": "2027官方最新地址导航",
+      "entity": "春秋加速器",
+      "brand": "春秋加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e4607fb3879a24fb074a7aa8b962327b22c80b0459695d550df6fb3879700ddf",
+      "content": {
+        "primary_entity": "春秋加速器",
+        "keyword1": "春秋加速器",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备对应不同的订阅客户端，请按系统选择。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档配置订阅，即可接入春秋加速器。",
+          "AI_CLOSING_TITLE": "开始使用春秋加速器",
+          "AI_DESCRIPTION": "，春秋加速器提供基础版、旗舰版、团队版三档套餐，分别适合个人轻度使用、多设备娱乐与团队协作，按月或按年订阅均可，配合常见客户端导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个角度选择套餐。",
+          "AI_FEATURES_TITLE": "套餐选择参考",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合日常浏览与轻量视频。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，可定制路由并配专属经理。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按使用场景选套餐",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅导入的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "春秋加速器以基础版、旗舰版、团队版三档订阅覆盖不同设备规模与流量需求，按月或按年付费均可，配合主流客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，年付 ¥850",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻度使用，旗舰版适合 5 台设备与游戏加速，团队版适合 20 台设备协作，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端与系统的适配要求，确认设备可以正常导入订阅。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成连接后即可访问所需站点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "春秋加速器套餐导航",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "春秋加速器套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数选。轻度使用选基础版 100GB/3 台，常用选旗舰版 300GB/5 台，多设备或团队选团队版 1000GB/20 台。",
+          "AI_FAQ_QUESTION_2": "年付和月付哪个更合适？",
+          "AI_FAQ_ANSWER_2": "长期稳定使用可选年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比按月支付更划算。短期使用可选月付灵活调整。",
+          "AI_FAQ_QUESTION_3": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_3": "不同套餐设备数不同，基础版 3 台、旗舰版 5 台、团队版 20 台。在支持客户端上导入订阅即可使用，具体兼容性以客户端文档为准。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中新建订阅，粘贴订阅地址或扫描二维码，保存后更新节点即可。不同客户端操作略有差异，请参照对应客户端文档。",
+          "AI_FAQ_QUESTION_5": "流量超出套餐怎么办？",
+          "AI_FAQ_ANSWER_5": "超出后可升级到更高档位套餐，或等待下一计费周期重置。团队版 1000GB 适合高流量场景，建议按实际用量选择合适套餐。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5o201f.cn",
+    "host": "5o201f.cn"
+  },
+  "file_hashes": {
+    "index.html": "a021d2610cab61da2237933a5fb800370fe9e7364068b00b0a53948472965db8",
+    "sitemap.xml": "8dd88e2bb67ca1ea013c30272ad076e074d2860a92c725b5d9e7f4d66e1bfeed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "845bd72bcd96929cdf7b5cf6cc89e408c2350e62e5b4bb2008c6d49cb97f0d8f",
+    "robots.txt": "4c5b020a21be810d596fe94473bc22902bba5c4b556a895c723ab45d8066c247",
+    "43980370ba2dd42edac4dcb57ba65e20.txt": "29008d197e071653005619edf74c01bc370c90b5bc70e3edeff3aecae37af556"
+  },
+  "revision": "bbd268a04a6b98f30b232c23cc97bfe90fd1cf3bfa78ae9e447ba5dda73367f5"
+}
